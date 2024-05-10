@@ -12,6 +12,13 @@ h1 {
     height: 100%;
 }
 
+.container--cropped {
+    position: relative;
+    overflow: hidden;
+}
+
 .img {
     height: 100%;
 }
+
+.img--cropped {}
